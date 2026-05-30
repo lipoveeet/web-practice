@@ -1,0 +1,19 @@
+:root {
+  --color-primary: #4CAF93;
+  --color-secondary: #4A90D9;
+  --color-accent: #00d4aa;
+  --color-hero-from: #e84393;
+  --color-hero-to: #9b59b6;
+  --color-dark: #1e2a3a;
+  --color-dark-2: #243447;
+  --color-testimonial-from: #4a90d9;
+  --color-testimonial-to: #7b68ee;
+  --color-text: #555;
+  --color-text-light: #888;
+  --color-heading: #333;
+  --color-white: #fff;
+  --font-main: 'Poppins', sans-serif;
+  --radius: 8px;
+  --shadow: 0 4px 20px rgba(0,0,0,0.08);
+  --transition: 0.3s ease;
+}
