@@ -1,11 +1,4 @@
-# WebHost
-
-Навчальна практика з Web-дизайну.
-
-Технології:
-
-- HTML5
-- CSS3
-
-Автор:
-Bohdan Lypovetskyi
+# Web Practice FKEP
+Student: Ivan Petrenko
+Group: PI-23-01
+Educational practice project.

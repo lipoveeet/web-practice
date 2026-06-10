@@ -1,0 +1,12 @@
+:root {
+  --hero-from: #e84393;
+  --hero-to: #9b59b6;
+  --accent-color: #00d4aa;
+  --dark-color: #1e2a3a;
+  --light-color: #fff;
+  --text-color: #555;
+  --text-light: #888;
+  --heading-color: #333;
+  --secondary-color: #4a90d9;
+  --main-font: "Poppins", sans-serif;
+}
